@@ -19,7 +19,7 @@
   "bugs": {
     "url": "https://github.com/junkdeck/rn-bump/issues"
   },
-  "homepage": "https://github.com/junkdeck/rn-bump#readme",
+  "homepage": "https://github.com/junkdeck/rn-bump",
   "dependencies": {
     "simple-plist": "^1.1.0"
   }
