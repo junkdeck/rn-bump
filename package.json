@@ -1,6 +1,6 @@
 {
   "name": "@junkdeck/rn-bump",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "bumps your react-native project's build/version number",
   "main": "bump.js",
   "bin": "./bin/bump.js",
