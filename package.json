@@ -1,0 +1,25 @@
+{
+  "name": "@junkdeck/rn-bump",
+  "version": "1.0.0",
+  "description": "bumps your react-native project's build/version number",
+  "main": "bump.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/junkdeck/rn-bump.git"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "junkdeck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/junkdeck/rn-bump/issues"
+  },
+  "homepage": "https://github.com/junkdeck/rn-bump#readme",
+  "dependencies": {
+    "simple-plist": "^1.1.0"
+  }
+}
